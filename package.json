@@ -1,0 +1,16 @@
+{
+  "name": "opensearch-aws-transport",
+  "version": "1.0.0",
+  "description": "Transport for signing requests from the opensearch-js client to AWS opensearch.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acodeninja/opensearch-aws-transport.git"
+  },
+  "keywords": [],
+  "author": "Lawrence <lawrence@acode.ninja>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acodeninja/opensearch-aws-transport/issues"
+  },
+  "homepage": "https://github.com/acodeninja/opensearch-aws-transport#readme"
+}
